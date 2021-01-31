@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 * Class Components.
 * State Management.
 * Life Cycle Methods.
-* Making API Requests with React. I used [https://unsplash.com/developers](Unsplash APIs)
+* Making API Requests with React. I used Unsplash APIs [https://unsplash.com/developers]
 * Handling User Input with Forms and Events.
 * Rendering Lists.
 
